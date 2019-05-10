@@ -1,0 +1,8 @@
+'localhost-system':
+  api_username: 'system'
+  api_key: 'your-api-key'
+  host: 'http://localhost:3000'
+'localhost-user':
+  api_username: 'user'
+  api_key: 'your-api-key'
+  host: 'http://localhost:3000'
